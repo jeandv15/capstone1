@@ -21,8 +21,8 @@ body {
 /*.pic {
 	width: 300px;
 	height: 300px;
-}
-*/
+}*/
+
 .car {
 	width: 80%;
 	height: 50%;
@@ -47,3 +47,9 @@ h3	{
 	width: 100px;
 	height: 100px;
 }
+
+.navbar a:hover {
+  background-color: #555;
+  border-radius: 15px;
+}
+
